@@ -14,9 +14,9 @@ See the [Mattermost User's Guide](https://docs.mattermost.com/guides/user.html) 
 
 ## How can I start a video session from Mattermost?
 
-You can start at any time a video conversation with one or more persons in private. Additionally, you can start a video session in a private or public channel. See this [post](https://mattermost.com/blog/bigbluebutton-integration/) and/or the [demo video](https://www.youtube.com/watch?v=gg7J9B4wGa4).
+You can start at any time a video conversation with one or more persons in private. Additionally, you can start a video session in a private or public channel. See this [post](https://mattermost.com/blog/bigbluebutton-integration/) and/or the [demo video](https://www.youtube.com/watch?v=gg7J9B4wGa4). _Please note to not start video sessions in the "Town Square" or "Off-Topic" channels._
 
-To start a video session look out for the camera icon, which can be found in the top right corner of every channel:
+To start a video session within a channel look out for the camera icon, which can be found in the top right corner of every channel:
 
 ![Screenshot](https://github.com/swibcon/swib20/raw/main/img/camera-icon-top.right.png)
 
@@ -48,6 +48,20 @@ As presenter of a lightning talk you will be approached by the SWIB20 organizati
 
 Breakout sessions will take place on Friday 2020-11-27 after the lightning talks. To propose a breakout session, post your name, the title & a short description of your session to the [SWIB20 Mattermost Town Square](https://swib20.collocall.de/swib20/channels/town-square) using the hashtag **`#breakout`**. You might already create a public mattermost channel and invite people to join in order to prepare the session.
 
-## I accidently created a public channel. How do I get it removed?
+## How can I reduce the data transmitted in a BigBlueButton conference?
+
+- Share fewer cameras in the meeting. For example, moderators can only enable camera sharing for certain participants.
+- Participants can select low resolution when sharing their camera to reduce the amount of data transmitted
+- When sharing the screen, only select the required window, not the whole screen. Then minimize the split window to the required size instead of maximizing it to the entire screen.
+- Use the `⫶` icon in the upper right corner to access the "Settings". Under "Data savings" deactivate screen sharing and/or videos of other people. The videos/screens of the other participants will then no longer be transmitted. These settings only affects your own view:
+
+![Screenshot](https://github.com/swibcon/swib20/raw/main/img/disable-webcams-in-bbb.png)
+
+## How can I take part in a BigBlueButton conference despite a poor Internet connection?
+
+- Reduce the amount of data transmitted in the conference (see above for details).
+- Switching off your webcam also reduces the amount of data transmitted.
+
+## I accidently created a public Mattermost channel. How do I get it removed?
 
 Please contact `@acka47` or `@jneubert` who have admin privileges and can either make a public channel private or remove the channel altogether.
