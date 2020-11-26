@@ -1,4 +1,4 @@
-The SWIB20 workshop [Introduction to Fedora & Fedora 6.0 and the Oxford Common File Layout](http://swib.org/swib20/programme.html#abs08) are not recorded.
+The SWIB20 workshop [Introduction to Fedora & Fedora 6.0 and the Oxford Common File Layout](http://swib.org/swib20/programme.html#abs07) are not recorded.
 
 [Workshop Slides for Introduction to Fedora]( https://docs.google.com/presentation/d/14FbJsukAs7J5-q0wDKmos9F9BJBUUIsa6MctEwO-czg) are available online.
 
