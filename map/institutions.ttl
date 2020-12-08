@@ -1,0 +1,855 @@
+@prefix zbwext: <http://zbw.eu/namespaces/zbw-extensions/> .
+@prefix wd:    <http://www.wikidata.org/entity/> .
+
+wd:Q1638442  zbwext:swib20participants  1 .
+
+wd:Q151510  zbwext:swib20participants  1 .
+
+wd:Q234110  zbwext:swib20participants  3 .
+
+wd:Q970652  zbwext:swib20participants  1 .
+
+wd:Q2496355  zbwext:swib20participants  1 .
+
+wd:Q5530482  zbwext:swib20participants  1 .
+
+wd:Q510324  zbwext:swib20participants  1 .
+
+wd:Q49112  zbwext:swib20participants  0 .
+
+wd:Q666063  zbwext:swib20participants  1 .
+
+wd:Q15279140  zbwext:swib20participants
+                1 .
+
+wd:Q685753  zbwext:swib20participants  1 .
+
+wd:Q1895354  zbwext:swib20participants  2 .
+
+wd:Q256507  zbwext:swib20participants  1 .
+
+wd:Q2935605  zbwext:swib20participants  1 .
+
+wd:Q902464  zbwext:swib20participants  1 .
+
+wd:Q7896490  zbwext:swib20participants  3 .
+
+wd:Q1391290  zbwext:swib20participants  1 .
+
+wd:Q7449480  zbwext:swib20participants  1 .
+
+wd:Q42411212  zbwext:swib20participants
+                2 .
+
+wd:Q1360303  zbwext:swib20participants  1 .
+
+wd:Q8896  zbwext:swib20participants  1 .
+
+wd:Q1277776  zbwext:swib20participants  1 .
+
+wd:Q17014230  zbwext:swib20participants
+                1 .
+
+wd:Q2496307  zbwext:swib20participants  1 .
+
+wd:Q1503374  zbwext:swib20participants  1 .
+
+wd:Q7747087  zbwext:swib20participants  6 .
+
+wd:Q24943800  zbwext:swib20participants
+                1 .
+
+wd:Q102270482  zbwext:swib20participants
+                1 .
+
+wd:Q1481275  zbwext:swib20participants  1 .
+
+wd:Q2302311  zbwext:swib20participants  2 .
+
+wd:Q41984  zbwext:swib20participants  2 .
+
+wd:Q165980  zbwext:swib20participants  4 .
+
+wd:Q1525831  zbwext:swib20participants  1 .
+
+wd:Q215616  zbwext:swib20participants  1 .
+
+wd:Q1133733  zbwext:swib20participants  3 .
+
+wd:Q101247458  zbwext:swib20participants
+                1 .
+
+wd:Q574571  zbwext:swib20participants  1 .
+
+wd:Q1681243  zbwext:swib20participants  1 .
+
+wd:Q1233544  zbwext:swib20participants  11 .
+
+wd:Q69491662  zbwext:swib20participants
+                1 .
+
+wd:Q204457  zbwext:swib20participants  2 .
+
+wd:Q47461569  zbwext:swib20participants
+                1 .
+
+wd:Q22079853  zbwext:swib20participants
+                1 .
+
+wd:Q7352053  zbwext:swib20participants  1 .
+
+wd:Q186844  zbwext:swib20participants  1 .
+
+wd:Q1065414  zbwext:swib20participants  1 .
+
+wd:Q253414  zbwext:swib20participants  2 .
+
+wd:Q683842  zbwext:swib20participants  1 .
+
+wd:Q875587  zbwext:swib20participants  4 .
+
+wd:Q2982989  zbwext:swib20participants  1 .
+
+wd:Q432475  zbwext:swib20participants  1 .
+
+wd:Q21189104  zbwext:swib20participants
+                1 .
+
+wd:Q6485425  zbwext:swib20participants  1 .
+
+wd:Q1067935  zbwext:swib20participants  1 .
+
+wd:Q18085187  zbwext:swib20participants
+                11 .
+
+wd:Q2324586  zbwext:swib20participants  1 .
+
+wd:Q15568  zbwext:swib20participants  1 .
+
+wd:Q4376778  zbwext:swib20participants  2 .
+
+wd:Q880794  zbwext:swib20participants  1 .
+
+wd:Q383931  zbwext:swib20participants  1 .
+
+wd:Q1718711  zbwext:swib20participants  1 .
+
+wd:Q913250  zbwext:swib20participants  2 .
+
+wd:Q73644758  zbwext:swib20participants
+                1 .
+
+wd:Q7895109  zbwext:swib20participants  1 .
+
+wd:Q1782948  zbwext:swib20participants  1 .
+
+wd:Q5243021  zbwext:swib20participants  1 .
+
+wd:Q1576755  zbwext:swib20participants  1 .
+
+wd:Q1049470  zbwext:swib20participants  1 .
+
+wd:Q12449999  zbwext:swib20participants
+                1 .
+
+wd:Q161982  zbwext:swib20participants  1 .
+
+wd:Q4383730  zbwext:swib20participants  1 .
+
+wd:Q683389  zbwext:swib20participants  3 .
+
+wd:Q1333303  zbwext:swib20participants  1 .
+
+wd:Q1137652  zbwext:swib20participants  2 .
+
+wd:Q189926  zbwext:swib20participants  2 .
+
+wd:Q101567544  zbwext:swib20participants
+                1 .
+
+wd:Q310695  zbwext:swib20participants  5 .
+
+wd:Q58039052  zbwext:swib20participants
+                4 .
+
+wd:Q7896575  zbwext:swib20participants  3 .
+
+wd:Q153006  zbwext:swib20participants  1 .
+
+wd:Q2496326  zbwext:swib20participants  1 .
+
+wd:Q2724353  zbwext:swib20participants  1 .
+
+wd:Q2508061  zbwext:swib20participants  4 .
+
+wd:Q3477205  zbwext:swib20participants  1 .
+
+wd:Q1145731  zbwext:swib20participants  1 .
+
+wd:Q220226  zbwext:swib20participants  2 .
+
+wd:Q482765  zbwext:swib20participants  1 .
+
+wd:Q1967876  zbwext:swib20participants  1 .
+
+wd:Q49210  zbwext:swib20participants  1 .
+
+wd:Q24576  zbwext:swib20participants  1 .
+
+wd:Q190593  zbwext:swib20participants  7 .
+
+wd:Q280017  zbwext:swib20participants  1 .
+
+wd:Q58241164  zbwext:swib20participants
+                1 .
+
+wd:Q1210045  zbwext:swib20participants  1 .
+
+wd:Q6966612  zbwext:swib20participants  1 .
+
+wd:Q50035308  zbwext:swib20participants
+                1 .
+
+wd:Q219555  zbwext:swib20participants  2 .
+
+wd:Q6050910  zbwext:swib20participants  1 .
+
+wd:Q944630  zbwext:swib20participants  1 .
+
+wd:Q253771  zbwext:swib20participants  1 .
+
+wd:Q3698008  zbwext:swib20participants  1 .
+
+wd:Q1150105  zbwext:swib20participants  3 .
+
+wd:Q385745  zbwext:swib20participants  1 .
+
+wd:Q8880  zbwext:swib20participants  1 .
+
+wd:Q20523097  zbwext:swib20participants
+                3 .
+
+wd:Q1204536  zbwext:swib20participants  6 .
+
+wd:Q8288  zbwext:swib20participants  1 .
+
+wd:Q69474198  zbwext:swib20participants
+                1 .
+
+wd:Q219694  zbwext:swib20participants  1 .
+
+wd:Q896706  zbwext:swib20participants  3 .
+
+wd:Q633529  zbwext:swib20participants  1 .
+
+wd:Q4903496  zbwext:swib20participants  1 .
+
+wd:Q3567094  zbwext:swib20participants  1 .
+
+wd:Q806116  zbwext:swib20participants  1 .
+
+wd:Q235034  zbwext:swib20participants  1 .
+
+wd:Q1666651  zbwext:swib20participants  1 .
+
+wd:Q174710  zbwext:swib20participants  1 .
+
+wd:Q1475400  zbwext:swib20participants  1 .
+
+wd:Q414150  zbwext:swib20participants  1 .
+
+wd:Q1609326  zbwext:swib20participants  1 .
+
+wd:Q1414861  zbwext:swib20participants  1 .
+
+wd:Q152838  zbwext:swib20participants  1 .
+
+wd:Q2399120  zbwext:swib20participants  7 .
+
+wd:Q28738728  zbwext:swib20participants
+                1 .
+
+wd:Q1514848  zbwext:swib20participants  1 .
+
+wd:Q131454  zbwext:swib20participants  10 .
+
+wd:Q872398  zbwext:swib20participants  1 .
+
+wd:Q201787  zbwext:swib20participants  2 .
+
+wd:Q1568237  zbwext:swib20participants  1 .
+
+wd:Q7895690  zbwext:swib20participants  3 .
+
+wd:Q1108197  zbwext:swib20participants  2 .
+
+wd:Q6974124  zbwext:swib20participants  2 .
+
+wd:Q92802556  zbwext:swib20participants
+                1 .
+
+wd:Q392189  zbwext:swib20participants  1 .
+
+wd:Q217741  zbwext:swib20participants  2 .
+
+wd:Q2496357  zbwext:swib20participants  3 .
+
+wd:Q6410943  zbwext:swib20participants  1 .
+
+wd:Q49114  zbwext:swib20participants  2 .
+
+wd:Q55044  zbwext:swib20participants  1 .
+
+wd:Q144488  zbwext:swib20participants  1 .
+
+wd:Q5620356  zbwext:swib20participants  1 .
+
+wd:Q201492  zbwext:swib20participants  1 .
+
+wd:Q4146639  zbwext:swib20participants  1 .
+
+wd:Q1680376  zbwext:swib20participants  1 .
+
+wd:Q1584459  zbwext:swib20participants  1 .
+
+wd:Q76609347  zbwext:swib20participants
+                1 .
+
+wd:Q27302  zbwext:swib20participants  17 .
+
+wd:Q953058  zbwext:swib20participants  10 .
+
+wd:Q7598806  zbwext:swib20participants  5 .
+
+wd:Q22096046  zbwext:swib20participants
+                1 .
+
+wd:Q49126  zbwext:swib20participants  1 .
+
+wd:Q1433199  zbwext:swib20participants  1 .
+
+wd:Q3152021  zbwext:swib20participants  2 .
+
+wd:Q638395  zbwext:swib20participants  3 .
+
+wd:Q882032  zbwext:swib20participants  1 .
+
+wd:Q673354  zbwext:swib20participants  1 .
+
+wd:Q564783  zbwext:swib20participants  6 .
+
+wd:Q1473615  zbwext:swib20participants  3 .
+
+wd:Q621043  zbwext:swib20participants  2 .
+
+wd:Q6709869  zbwext:swib20participants  3 .
+
+wd:Q2496285  zbwext:swib20participants  2 .
+
+wd:Q609471  zbwext:swib20participants  1 .
+
+wd:Q56249056  zbwext:swib20participants
+                1 .
+
+wd:Q1314031  zbwext:swib20participants  1 .
+
+wd:Q599316  zbwext:swib20participants  1 .
+
+wd:Q503424  zbwext:swib20participants  2 .
+
+wd:Q1113551  zbwext:swib20participants  2 .
+
+wd:Q7895569  zbwext:swib20participants  1 .
+
+wd:Q1247135  zbwext:swib20participants  1 .
+
+wd:Q217439  zbwext:swib20participants  1 .
+
+wd:Q875788  zbwext:swib20participants  1 .
+
+wd:Q245966  zbwext:swib20participants  1 .
+
+wd:Q69964174  zbwext:swib20participants
+                1 .
+
+wd:Q28695  zbwext:swib20participants  2 .
+
+wd:Q1073674  zbwext:swib20participants  1 .
+
+wd:Q2111400  zbwext:swib20participants  1 .
+
+wd:Q6979225  zbwext:swib20participants  1 .
+
+wd:Q180865  zbwext:swib20participants  4 .
+
+wd:Q5645111  zbwext:swib20participants  1 .
+
+wd:Q317070  zbwext:swib20participants  1 .
+
+wd:Q206702  zbwext:swib20participants  1 .
+
+wd:Q1766396  zbwext:swib20participants  1 .
+
+wd:Q13122809  zbwext:swib20participants
+                1 .
+
+wd:Q1592074  zbwext:swib20participants  1 .
+
+wd:Q1781394  zbwext:swib20participants  1 .
+
+wd:Q168756  zbwext:swib20participants  3 .
+
+wd:Q924551  zbwext:swib20participants  4 .
+
+wd:Q8778175  zbwext:swib20participants  1 .
+
+wd:Q3551432  zbwext:swib20participants  1 .
+
+wd:Q611833  zbwext:swib20participants  4 .
+
+wd:Q867885  zbwext:swib20participants  1 .
+
+wd:Q620640  zbwext:swib20participants  1 .
+
+wd:Q7919327  zbwext:swib20participants  1 .
+
+wd:Q480222  zbwext:swib20participants  14 .
+
+wd:Q4914065  zbwext:swib20participants  1 .
+
+wd:Q101024265  zbwext:swib20participants
+                1 .
+
+wd:Q188915  zbwext:swib20participants  2 .
+
+wd:Q337266  zbwext:swib20participants  2 .
+
+wd:Q7078369  zbwext:swib20participants  1 .
+
+wd:Q7894377  zbwext:swib20participants  1 .
+
+wd:Q4682076  zbwext:swib20participants  1 .
+
+wd:Q1788342  zbwext:swib20participants  5 .
+
+wd:Q28734805  zbwext:swib20participants
+                1 .
+
+wd:Q684773  zbwext:swib20participants  3 .
+
+wd:Q50280985  zbwext:swib20participants
+                1 .
+
+wd:Q7075970  zbwext:swib20participants  1 .
+
+wd:Q7895142  zbwext:swib20participants  1 .
+
+wd:Q5975426  zbwext:swib20participants  1 .
+
+wd:Q69482138  zbwext:swib20participants
+                1 .
+
+wd:Q501851  zbwext:swib20participants  1 .
+
+wd:Q1065  zbwext:swib20participants  10 .
+
+wd:Q7928986  zbwext:swib20participants  1 .
+
+wd:Q52635530  zbwext:swib20participants
+                1 .
+
+wd:Q189928  zbwext:swib20participants  1 .
+
+wd:Q101243712  zbwext:swib20participants
+                1 .
+
+wd:Q12719270  zbwext:swib20participants
+                1 .
+
+wd:Q309988  zbwext:swib20participants  1 .
+
+wd:Q219563  zbwext:swib20participants  1 .
+
+wd:Q5440482  zbwext:swib20participants  3 .
+
+wd:Q39072675  zbwext:swib20participants
+                1 .
+
+wd:Q1798499  zbwext:swib20participants  1 .
+
+wd:Q49115  zbwext:swib20participants  4 .
+
+wd:Q1965176  zbwext:swib20participants  1 .
+
+wd:Q6017353  zbwext:swib20participants  1 .
+
+wd:Q1664940  zbwext:swib20participants  2 .
+
+wd:Q18559618  zbwext:swib20participants
+                1 .
+
+wd:Q856552  zbwext:swib20participants  1 .
+
+wd:Q2983704  zbwext:swib20participants  1 .
+
+wd:Q1047060  zbwext:swib20participants  1 .
+
+wd:Q2605554  zbwext:swib20participants  1 .
+
+wd:Q1674548  zbwext:swib20participants  1 .
+
+wd:Q390551  zbwext:swib20participants  1 .
+
+wd:Q170109  zbwext:swib20participants  4 .
+
+wd:Q7895799  zbwext:swib20participants  2 .
+
+wd:Q1234343  zbwext:swib20participants  2 .
+
+wd:Q7385045  zbwext:swib20participants  1 .
+
+wd:Q49212  zbwext:swib20participants  1 .
+
+wd:Q945017  zbwext:swib20participants  1 .
+
+wd:Q832226  zbwext:swib20participants  1 .
+
+wd:Q1382220  zbwext:swib20participants  1 .
+
+wd:Q685557  zbwext:swib20participants  3 .
+
+wd:Q20710177  zbwext:swib20participants
+                1 .
+
+wd:Q622015  zbwext:swib20participants  1 .
+
+wd:Q29293  zbwext:swib20participants  1 .
+
+wd:Q951305  zbwext:swib20participants  2 .
+
+wd:Q667568  zbwext:swib20participants  1 .
+
+wd:Q214341  zbwext:swib20participants  2 .
+
+wd:Q178848  zbwext:swib20participants  3 .
+
+wd:Q3181296  zbwext:swib20participants  1 .
+
+wd:Q1463036  zbwext:swib20participants  3 .
+
+wd:Q1060  zbwext:swib20participants  1 .
+
+wd:Q162684  zbwext:swib20participants  1 .
+
+wd:Q1075339  zbwext:swib20participants  1 .
+
+wd:Q98359549  zbwext:swib20participants
+                1 .
+
+wd:Q1005530  zbwext:swib20participants  1 .
+
+wd:Q1813732  zbwext:swib20participants  1 .
+
+wd:Q24238356  zbwext:swib20participants
+                1 .
+
+wd:Q1383275  zbwext:swib20participants  2 .
+
+wd:Q3179598  zbwext:swib20participants  1 .
+
+wd:Q209344  zbwext:swib20participants  1 .
+
+wd:Q49206  zbwext:swib20participants  1 .
+
+wd:Q1664946  zbwext:swib20participants  1 .
+
+wd:Q621630  zbwext:swib20participants  2 .
+
+wd:Q743615  zbwext:swib20participants  1 .
+
+wd:Q213322  zbwext:swib20participants  1 .
+
+wd:Q48771349  zbwext:swib20participants
+                2 .
+
+wd:Q5014065  zbwext:swib20participants  2 .
+
+wd:Q30634857  zbwext:swib20participants
+                1 .
+
+wd:Q2324306  zbwext:swib20participants  1 .
+
+wd:Q835440  zbwext:swib20participants  2 .
+
+wd:Q12061441  zbwext:swib20participants
+                1 .
+
+wd:Q1063819  zbwext:swib20participants  5 .
+
+wd:Q193563  zbwext:swib20participants  3 .
+
+wd:Q7686664  zbwext:swib20participants  2 .
+
+wd:Q2324644  zbwext:swib20participants  3 .
+
+wd:Q749718  zbwext:swib20participants  1 .
+
+wd:Q317179  zbwext:swib20participants  12 .
+
+wd:Q1420239  zbwext:swib20participants  2 .
+
+wd:Q1490164  zbwext:swib20participants  2 .
+
+wd:Q1321380  zbwext:swib20participants  1 .
+
+wd:Q766145  zbwext:swib20participants  1 .
+
+wd:Q1861687  zbwext:swib20participants  1 .
+
+wd:Q2473859  zbwext:swib20participants  1 .
+
+wd:Q842909  zbwext:swib20participants  1 .
+
+wd:Q1144262  zbwext:swib20participants  1 .
+
+wd:Q689400  zbwext:swib20participants  2 .
+
+wd:Q18572874  zbwext:swib20participants
+                4 .
+
+wd:Q2017571  zbwext:swib20participants  1 .
+
+wd:Q457281  zbwext:swib20participants  1 .
+
+wd:Q2496347  zbwext:swib20participants  1 .
+
+wd:Q2901276  zbwext:swib20participants  1 .
+
+wd:Q1542985  zbwext:swib20participants  1 .
+
+wd:Q54129  zbwext:swib20participants  4 .
+
+wd:Q4741757  zbwext:swib20participants  1 .
+
+wd:Q4116241  zbwext:swib20participants  1 .
+
+wd:Q2583293  zbwext:swib20participants  3 .
+
+wd:Q263491  zbwext:swib20participants  1 .
+
+wd:Q17013516  zbwext:swib20participants
+                1 .
+
+wd:Q13371  zbwext:swib20participants  2 .
+
+wd:Q872425  zbwext:swib20participants  2 .
+
+wd:Q896552  zbwext:swib20participants  1 .
+
+wd:Q3456783  zbwext:swib20participants  1 .
+
+wd:Q7587511  zbwext:swib20participants  1 .
+
+wd:Q2919540  zbwext:swib20participants  1 .
+
+wd:Q1204714  zbwext:swib20participants  1 .
+
+wd:Q15852122  zbwext:swib20participants
+                4 .
+
+wd:Q155354  zbwext:swib20participants  2 .
+
+wd:Q46210  zbwext:swib20participants  2 .
+
+wd:Q6784286  zbwext:swib20participants  1 .
+
+wd:Q168426  zbwext:swib20participants  1 .
+
+wd:Q1054319  zbwext:swib20participants  1 .
+
+wd:Q2413375  zbwext:swib20participants  3 .
+
+wd:Q1124657  zbwext:swib20participants  1 .
+
+wd:Q1205727  zbwext:swib20participants  3 .
+
+wd:Q179501  zbwext:swib20participants  1 .
+
+wd:Q414188  zbwext:swib20participants  2 .
+
+wd:Q73644786  zbwext:swib20participants
+                2 .
+
+wd:Q304037  zbwext:swib20participants  2 .
+
+wd:Q1665236  zbwext:swib20participants  1 .
+
+wd:Q6400588  zbwext:swib20participants  1 .
+
+wd:Q73495405  zbwext:swib20participants
+                2 .
+
+wd:Q1912108  zbwext:swib20participants  1 .
+
+wd:Q806703  zbwext:swib20participants  1 .
+
+wd:Q7707473  zbwext:swib20participants  1 .
+
+wd:Q1059456  zbwext:swib20participants  1 .
+
+wd:Q280413  zbwext:swib20participants  1 .
+
+wd:Q238101  zbwext:swib20participants  2 .
+
+wd:Q845768  zbwext:swib20participants  2 .
+
+wd:Q1068258  zbwext:swib20participants  2 .
+
+wd:Q1020347  zbwext:swib20participants  1 .
+
+wd:Q1667757  zbwext:swib20participants  1 .
+
+wd:Q1165458  zbwext:swib20participants  1 .
+
+wd:Q219317  zbwext:swib20participants  1 .
+
+wd:Q379848  zbwext:swib20participants  1 .
+
+wd:Q193510  zbwext:swib20participants  2 .
+
+wd:Q6269240  zbwext:swib20participants  1 .
+
+wd:Q2826570  zbwext:swib20participants  1 .
+
+wd:Q41506  zbwext:swib20participants  4 .
+
+wd:Q10709207  zbwext:swib20participants
+                1 .
+
+wd:Q1705530  zbwext:swib20participants  1 .
+
+wd:Q2000629  zbwext:swib20participants  1 .
+
+wd:Q3232931  zbwext:swib20participants  2 .
+
+wd:Q401034  zbwext:swib20participants  1 .
+
+wd:Q3444527  zbwext:swib20participants  1 .
+
+wd:Q98831594  zbwext:swib20participants
+                1 .
+
+wd:Q1580126  zbwext:swib20participants  1 .
+
+wd:Q603034  zbwext:swib20participants  1 .
+
+wd:Q676831  zbwext:swib20participants  3 .
+
+wd:Q5503390  zbwext:swib20participants  3 .
+
+wd:Q1526131  zbwext:swib20participants  5 .
+
+wd:Q152087  zbwext:swib20participants  2 .
+
+wd:Q131626  zbwext:swib20participants  2 .
+
+wd:Q835960  zbwext:swib20participants  2 .
+
+wd:Q258943  zbwext:swib20participants  1 .
+
+wd:Q3105568  zbwext:swib20participants  1 .
+
+wd:Q7804  zbwext:swib20participants  1 .
+
+wd:Q230492  zbwext:swib20participants  1 .
+
+wd:Q838330  zbwext:swib20participants  4 .
+
+wd:Q861888  zbwext:swib20participants  1 .
+
+wd:Q85726762  zbwext:swib20participants
+                1 .
+
+wd:Q222450  zbwext:swib20participants  1 .
+
+wd:Q7895144  zbwext:swib20participants  1 .
+
+wd:Q7320757  zbwext:swib20participants  1 .
+
+wd:Q6801308  zbwext:swib20participants  1 .
+
+wd:Q37548  zbwext:swib20participants  1 .
+
+wd:Q902065  zbwext:swib20participants  1 .
+
+wd:Q192334  zbwext:swib20participants  1 .
+
+wd:Q5171572  zbwext:swib20participants  1 .
+
+wd:Q214867  zbwext:swib20participants  4 .
+
+wd:Q914141  zbwext:swib20participants  1 .
+
+wd:Q217659  zbwext:swib20participants  1 .
+
+wd:Q627969  zbwext:swib20participants  1 .
+
+wd:Q49117  zbwext:swib20participants  5 .
+
+wd:Q472316  zbwext:swib20participants  1 .
+
+wd:Q5671855  zbwext:swib20participants  2 .
+
+wd:Q7892233  zbwext:swib20participants  2 .
+
+wd:Q2000624  zbwext:swib20participants  1 .
+
+wd:Q616527  zbwext:swib20participants  1 .
+
+wd:Q82151  zbwext:swib20participants  2 .
+
+wd:Q833670  zbwext:swib20participants  2 .
+
+wd:Q1806348  zbwext:swib20participants  2 .
+
+wd:Q1670994  zbwext:swib20participants  1 .
+
+wd:Q503415  zbwext:swib20participants  1 .
+
+wd:Q1041671  zbwext:swib20participants  1 .
+
+wd:Q323270  zbwext:swib20participants  4 .
+
+wd:Q190260  zbwext:swib20participants  5 .
+
+wd:Q1727492  zbwext:swib20participants  1 .
+
+wd:Q1205728  zbwext:swib20participants  1 .
+
+wd:Q170027  zbwext:swib20participants  1 .
+
+wd:Q2000129  zbwext:swib20participants  3 .
+
+wd:Q1266339  zbwext:swib20participants  1 .
+
+wd:Q23308  zbwext:swib20participants  2 .
+
+wd:Q27863572  zbwext:swib20participants
+                5 .
+
+wd:Q420747  zbwext:swib20participants  9 .
+
+wd:Q2303432  zbwext:swib20participants  1 .
+
+wd:Q30289521  zbwext:swib20participants
+                1 .
+
+wd:Q15213548  zbwext:swib20participants
+                1 .
+
+wd:Q432637  zbwext:swib20participants  2 .
+
+wd:Q162222  zbwext:swib20participants  1 .
+
+wd:Q263064  zbwext:swib20participants  1 .
+
